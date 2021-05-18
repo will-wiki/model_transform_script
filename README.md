@@ -1,2 +1,2 @@
 # models_transform_script
-pytorch版和tf版bert相互转换脚本
+pytorch版和tf版bert模型相互转换脚本
